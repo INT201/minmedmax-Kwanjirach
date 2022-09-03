@@ -42,3 +42,4 @@ function minMedMax(num1,num2,num3){
     // console.log(`Min:${minValue},Med:${midValue},Max: ${maxValue}`)
     
 }
+module.exports = minMedMax
